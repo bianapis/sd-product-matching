@@ -1,0 +1,15 @@
+{
+  "customerProductserviceUtilization" : "U1",
+  "productserviceType" : "T3",
+  "productMatchingAssessmentReference" : "76439839",
+  "customerInsightValue" : "753245",
+  "productMatchingAssessmentResult" : "success",
+  "bankProductWeightingspriorities" : "P1",
+  "customerInsightType" : "propensity to buy",
+  "productMatchingAuthorizationCode" : "3462342",
+  "customerProductserviceProfile" : "87632",
+  "productserviceProperties" : "PS1",
+  "customerReferenceDataRecord" : {},
+  "matchingContextIndicator" : "solicitation",
+  "customerReference" : "1466578"
+}
